@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navHome"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item android:id="@+id/navSearch"
+        android:title="Find Phone"
+        android:icon="@drawable/ic_phone"/>
+    <item android:id="@+id/navContact"
+        android:title="App Lock"
+        android:icon="@drawable/ic_lock"/>
+    <item android:id="@+id/navHelp"
+        android:title="Fake Shutdown"
+        android:icon="@drawable/ic_shutdown"/>
+    <item android:id="@+id/navProfile"
+        android:title="Profile"
+        android:icon="@drawable/ic_user"/>
+
+</menu>
